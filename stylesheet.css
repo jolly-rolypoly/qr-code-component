@@ -1,0 +1,49 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+h1 {
+
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+
+
+}
+
+h2 {
+    font-family: 'Outfit', sans-serif;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+
+img {
+    width: 100%;
+    border-radius: 25px;
+
+}
+
+
+.text {
+
+    height: 150px;
+
+
+
+}
+
+.card {
+    display: block;
+    width: 18%;
+    height: 50%;
+    margin: 9% auto;
+    padding: 20px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+
+}
